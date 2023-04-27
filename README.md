@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_manoel/)
 
 ![Manoel Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=manoelvgsilva&show_icons=true&theme=radical)
-[![Manoel Silva Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Manoel Silva Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso nos meus projetos
 
