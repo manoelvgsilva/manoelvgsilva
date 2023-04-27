@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoel-code/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_manoel/)
 
-![Manoel Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=manoelvgsilva&show_icons=true&theme=dark)
+![Manoel Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=manoelvgsilva&show_icons=true&theme=highcontrast)
 [![Manoel Silva Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso nos meus projetos
