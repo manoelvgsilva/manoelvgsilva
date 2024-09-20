@@ -31,5 +31,5 @@ If you're wondering whether you should reach out to chat with me, don't hesitate
 
 ### Social Media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/manoel-code/)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=0E76A8)](https://instagram.com/dev-manoel)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=0E76A8)](https://instagram.com/dev_manoel)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=0E76A8)](mailto:manoelvgsilva@gmail.com)&nbsp;
