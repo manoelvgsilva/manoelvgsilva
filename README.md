@@ -18,7 +18,7 @@ If you're wondering whether you should reach out to chat with me, don't hesitate
 ### Technologies and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,docker,postgresql,mongo,redis,java,maven,spring,hibernate,prometheus,kafka,postman,jenkins,idea,heroku,html,css,sass,bootstrap,materialui,tailwind,styledcomponents,javascript,typescript,npm,grafana,react,redux,jest,cypress,vite,vscode,vercel&perline=7" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,mysql,postgresql,mongo,redis,java,maven,npm,spring,nodejs,expressjs,nest,hibernate,prisma,sequelize,graphql,prometheus,kafka,rabbitmq,elasticsearch,postman,jenkins,idea,heroku,html,css,sass,bootstrap,materialui,tailwind,styledcomponents,javascript,typescript,npm,grafana,react,angular,redux,yarn,jest,cypress,vite,next,vscode,vercel&perline=7" />
   </a>
 </p>
 
