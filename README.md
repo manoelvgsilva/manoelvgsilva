@@ -12,13 +12,13 @@ If you're wondering whether you should reach out to chat with me, don't hesitate
   <li>🥋 I'm a big fan of <strong>martial arts</strong>. An important detail is that I focus on having fun rather than being the best because if I were the best, I wouldn't need to fight anymore. 😂</li>
   <li>📚 Something I love to do, especially in my free time, is <strong>to read</strong>. If you also have this hobby and want company, <strong>feel free to invite me.</strong></li>
   <li>🎮 I love <strong>games</strong>. If you ask me which one I like the most, I won't name a specific one, but <strong>shooting games (PC and console)</strong> and <strong>strategy games (board games)</strong> are the ones that attract me the most.</li>
-  <li>👨🏻‍💻 Currently, I'm focused on learning more about <strong>full-stack</strong>. At the beginning of my journey in full-stack development.
+  <li>👨🏻‍💻 Currently, I'm focused on learning more about <strong>backend</strong>.
 </ul>
 
 ### Technologies and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,mysql,postgresql,mongo,redis,java,maven,npm,spring,nodejs,expressjs,nest,hibernate,prisma,sequelize,graphql,prometheus,kafka,rabbitmq,elasticsearch,postman,jenkins,idea,heroku,html,css,sass,bootstrap,materialui,tailwind,styledcomponents,javascript,typescript,npm,grafana,react,angular,redux,yarn,jest,cypress,vite,next,vscode,vercel&perline=7" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,docker,postgresql,mongo,redis,java,maven,spring,hibernate,prometheus,kafka,rabbitmq,elasticsearch,postman,jenkins,idea,heroku&perline=7" />
   </a>
 </p>
 
