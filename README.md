@@ -1,28 +1,19 @@
-### Hello 👋
+### Olá 👋
+<div align="justify"> Sou o Manoel. Sou apaixonado por desenvolvimento de software e me esforço todos os dias para melhorar e transformar a vida das pessoas através da tecnologia. Se você me perguntar por que escolhi essa área, provavelmente direi que a programação me fez virar noites de uma forma completamente diferente. </div>
+Se você está se perguntando se deve me chamar para conversar, não hesite — apenas faça isso! Estou aqui para ensinar, aprender, compartilhar experiências, jogar e sempre disponível para um <strong>Happy Hour</strong>! 🎉
 
-<div align="justify">
-  I'm Manoel. I'm passionate about software development and strive to improve myself every day to transform people's lives through technology. If you ask me why I chose this field, I’ll probably say that programming made me stay up all night in a completely different way.
-</div>
+### Algumas Coisas Indispensáveis na Minha Vida 🤔
 
-If you're wondering whether you should reach out to chat with me, don't hesitate—just do it! I'm here to teach, learn, share experiences, play games, and I'm always up for a <strong>Happy Hour</strong>! 🎉
+<ul align="justify"> <li>🥋 Sou um grande fã de <strong>artes marciais</strong>. Um detalhe importante é que foco em me divertir em vez de ser o melhor, porque se eu fosse o melhor, não precisaria mais lutar. 😂</li> <li>📚 Algo que adoro fazer, especialmente no meu tempo livre, é <strong>ler</strong>. Se você também tem esse hobby e quer companhia, <strong>sinta-se à vontade para me convidar.</strong></li> <li>🎮 Amo <strong>jogos</strong>. Se você me perguntar qual eu gosto mais, não vou dizer um específico, mas <strong>jogos de tiro (PC e console)</strong> e <strong>jogos de estratégia (de tabuleiro)</strong> são os que mais me atraem.</li> <li>👨🏻‍💻 Atualmente, estou focado em aprender mais sobre <strong>backend</strong>. </ul>
 
-### Some Things That Are Indispensable in My Life 🤔
-
-<ul align="justify">
-  <li>🥋 I'm a big fan of <strong>martial arts</strong>. An important detail is that I focus on having fun rather than being the best because if I were the best, I wouldn't need to fight anymore. 😂</li>
-  <li>📚 Something I love to do, especially in my free time, is <strong>to read</strong>. If you also have this hobby and want company, <strong>feel free to invite me.</strong></li>
-  <li>🎮 I love <strong>games</strong>. If you ask me which one I like the most, I won't name a specific one, but <strong>shooting games (PC and console)</strong> and <strong>strategy games (board games)</strong> are the ones that attract me the most.</li>
-  <li>👨🏻‍💻 Currently, I'm focused on learning more about <strong>backend</strong>.
-</ul>
-
-### Technologies and Tools
+### Tecnologias e ferramentas
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,postgresql,mongo,redis,java,maven,spring,hibernate,prometheus,kafka,rabbitmq,elasticsearch,postman,jenkins,idea,heroku,aws&perline=7" />
   </a>
 </p>
 
-### GitHub Stats
+### GitHub Status
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelvgsilva&layout=compact&hide_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=0d1117" />
 </div>
