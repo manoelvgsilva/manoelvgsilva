@@ -9,7 +9,7 @@ Se você está se perguntando se deve me chamar para conversar, não hesite — 
 ### Tecnologias e ferramentas
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,postgresql,mongo,redis,java,maven,spring,hibernate,prometheus,kafka,rabbitmq,elasticsearch,postman,jenkins,idea,terraform,aws&perline=7" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,postgresql,mongo,redis,java,typescript,nodejs,nestjs,npm,graphql,express,prisma,maven,spring,hibernate,prometheus,kafka,rabbitmq,elasticsearch,postman,jenkins,idea,terraform,aws&perline=7" />
   </a>
 </p>
 
