@@ -4,7 +4,7 @@ Se você está se perguntando se deve me chamar para conversar, não hesite — 
 
 ### Algumas Coisas Indispensáveis na Minha Vida 🤔
 
-<ul align="justify"> <li>🥋 Sou um grande fã de <strong>artes marciais</strong>. Um detalhe importante é que foco em me divertir em vez de ser o melhor, porque se eu fosse o melhor, não precisaria mais lutar. 😂</li> <li>📚 Algo que adoro fazer, especialmente no meu tempo livre, é <strong>ler</strong>. Se você também tem esse hobby e quer companhia, <strong>sinta-se à vontade para me convidar.</strong></li> <li>🎮 Amo <strong>jogos</strong>. Se você me perguntar qual eu gosto mais, não vou dizer um específico, mas <strong>jogos de tiro (PC e console)</strong> e <strong>jogos de estratégia (de tabuleiro)</strong> são os que mais me atraem.</li> <li>👨🏻‍💻 Atualmente, estou focado em aprender mais sobre <strong>backend</strong>. </ul>
+<ul align="justify"> <li>🥋 Sou um grande fã de <strong>artes marciais</strong>. Um detalhe importante é que foco em me divertir em vez de ser o melhor, porque se eu fosse o melhor, não precisaria mais lutar. 😂</li> <li>📚 Algo que adoro fazer, especialmente no meu tempo livre, é <strong>ler</strong>. Se você também tem esse hobby e quer companhia, <strong>sinta-se à vontade para me convidar.</strong></li> <li>🎮 Amo <strong>jogos</strong>. Se você me perguntar qual eu gosto mais, não vou dizer um específico, mas <strong>jogos de tiro (PC e console)</strong> e <strong>jogos de estratégia (de tabuleiro)</strong> são os que mais me atraem.</li> <li>👨🏻‍💻 Atualmente, estou focado em aprender mais sobre <strong>backend</strong> e <strong>devops</strong>. </ul>
 
 ### Tecnologias e ferramentas
 <p align="center">
