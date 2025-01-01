@@ -1,24 +1,49 @@
-### Olá 👋
-<div align="justify"> Sou o Manoel. Sou apaixonado por desenvolvimento de software e me esforço todos os dias para melhorar e transformar a vida das pessoas através da tecnologia. Se você me perguntar por que escolhi essa área, provavelmente direi que a programação me fez virar noites de uma forma completamente diferente. </div>
-Se você está se perguntando se deve me chamar para conversar, não hesite — apenas faça isso! Estou aqui para ensinar, aprender, compartilhar experiências, jogar e sempre disponível para um <strong>Happy Hour</strong>! 🎉
+# 👋 Olá! Eu sou o Manoel
 
-### Algumas Coisas Indispensáveis na Minha Vida 🤔
+<div align="justify"> 
+Sou apaixonado por desenvolvimento de software e me esforço todos os dias para melhorar e transformar a vida das pessoas através da tecnologia.  
+Se você me perguntar por que escolhi essa área, provavelmente direi que a programação me fez virar noites de uma forma completamente diferente.  
+</div>
 
-<ul align="justify"> <li>🥋 Sou um grande fã de <strong>artes marciais</strong>. Um detalhe importante é que foco em me divertir em vez de ser o melhor, porque se eu fosse o melhor, não precisaria mais lutar. 😂</li> <li>📚 Algo que adoro fazer, especialmente no meu tempo livre, é <strong>ler</strong>. Se você também tem esse hobby e quer companhia, <strong>sinta-se à vontade para me convidar.</strong></li> <li>🎮 Amo <strong>jogos</strong>. Se você me perguntar qual eu gosto mais, não vou dizer um específico, mas <strong>jogos de tiro (PC e console)</strong> e <strong>jogos de estratégia (de tabuleiro)</strong> são os que mais me atraem.</li> <li>👨🏻‍💻 Atualmente, estou focado em aprender mais sobre <strong>backend</strong> e <strong>devops</strong>. </ul>
+Se está se perguntando se deve me chamar para conversar, não hesite — **apenas faça isso!**  
+Estou aqui para ensinar, aprender, compartilhar experiências, jogar e sempre disponível para um **Happy Hour**! 🎉
 
-### Tecnologias e ferramentas
+---
+
+## 🧐 Algumas Coisas Indispensáveis na Minha Vida
+
+- 🥋 **Artes marciais**: Sou um grande fã! Foco em me divertir em vez de ser o melhor, porque, se eu fosse o melhor, não precisaria mais lutar. 😂  
+- 📚 **Leitura**: Adoro ler, especialmente no tempo livre. Se você compartilha esse hobby, **sinta-se à vontade para me convidar.**  
+- 🎮 **Jogos**: Amo todos os tipos, mas meus favoritos são **jogos de tiro (PC e console)** e **jogos de estratégia (de tabuleiro)**.  
+- 👨🏻‍💻 **Tecnologia**: Atualmente, estou aprendendo mais sobre **backend**, **DevOps** e **Inteligência Artificial**.  
+
+---
+
+## ⚙️ Tecnologias e Ferramentas
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,docker,kubernetes,postgresql,mongo,redis,java,typescript,nodejs,nestjs,npm,yarn,graphql,express,sequelize,prisma,maven,gradle,spring,hibernate,prometheus,grafana,kafka,rabbitmq,elasticsearch,postman,jenkins,vim,vscode,idea,terraform,aws&perline=7" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,docker,kubernetes,postgresql,mongo,redis,java,typescript,nodejs,python,nestjs,npm,yarn,graphql,flask,express,django,sequelize,prisma,pytorch,maven,gradle,spring,hibernate,prometheus,grafana,kafka,rabbitmq,elasticsearch,postman,jenkins,pycharm,vscode,idea,terraform,aws&perline=7" alt="Tecnologias e Ferramentas" />
   </a>
 </p>
 
-### GitHub Status
+---
+
+## 📊 GitHub Status
 <div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelvgsilva&layout=compact&hide_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=0d1117" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelvgsilva&layout=compact&hide_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=0d1117" alt="Linguagens mais usadas" />
 </div>
 
-### Social Media
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/manoel-code/)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=0E76A8)](https://instagram.com/dev_manoel)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=0E76A8)](mailto:manoelvgsilva@gmail.com)&nbsp;
+---
+
+## 🌐 Conecte-se Comigo
+<div align="center">
+  <a href="https://www.linkedin.com/in/manoel-code/">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/dev_manoel">
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=0E76A8" alt="Instagram" />
+  </a>
+  <a href="mailto:manoelvgsilva@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=0E76A8" alt="Gmail" />
+  </a>
+</div>
