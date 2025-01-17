@@ -22,7 +22,7 @@ Estou aqui para ensinar, aprender, compartilhar experiências, jogar e sempre di
 ## ⚙️ Tecnologias e Ferramentas
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,docker,kubernetes,postgresql,mongo,redis,java,typescript,nodejs,python,nestjs,npm,yarn,graphql,flask,express,django,sequelize,prisma,pytorch,maven,gradle,spring,hibernate,prometheus,grafana,kafka,rabbitmq,elasticsearch,postman,jenkins,pycharm,vscode,idea,terraform,aws&perline=7" alt="Tecnologias e Ferramentas" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,postgresql,mongo,redis,java,typescript,nodejs,python,nestjs,npm,yarn,graphql,flask,express,django,sequelize,prisma,pytorch,maven,gradle,spring,hibernate,prometheus,grafana,kafka,rabbitmq,elasticsearch,postman,jenkins,terraform,aws&perline=7" alt="Tecnologias e Ferramentas" />
   </a>
 </p>
 
