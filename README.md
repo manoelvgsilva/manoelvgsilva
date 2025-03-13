@@ -15,7 +15,7 @@ Estou aqui para ensinar, aprender, compartilhar experiências, jogar e sempre di
 - 🥋 **Artes marciais**: Sou um grande fã! Foco em me divertir em vez de ser o melhor, porque, se eu fosse o melhor, não precisaria mais lutar. 😂  
 - 📚 **Leitura**: Adoro ler, especialmente no tempo livre. Se você compartilha esse hobby, **sinta-se à vontade para me convidar.**  
 - 🎮 **Jogos**: Amo todos os tipos, mas meus favoritos são **jogos de tiro (PC e console)** e **jogos de estratégia (de tabuleiro)**.  
-- 👨🏻‍💻 **Tecnologia**: Atualmente, estou aprendendo mais sobre **backend**, **DevOps** e **Inteligência Artificial**.  
+- 👨🏻‍💻 **Tecnologia**: Atualmente, estou aprendendo mais sobre **BackEnd**, **DevOps** e **FrontEnd**.  
 
 ---
 
